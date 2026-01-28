@@ -7,4 +7,4 @@
 
 [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/koschel)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBx0&theme=slateorange&langs_count=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBx0-dev&theme=slateorange&langs_count=100)
